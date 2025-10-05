@@ -268,7 +268,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* What's Included Section */}
+      {/* What&apos;s Included Section */}
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
@@ -498,7 +498,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-white mb-4">Ready to Build Your SaaS?</h2>
-            <p className="text-xl text-primary-100">Book a free consultation and let's discuss your idea</p>
+            <p className="text-xl text-primary-100">Book a free consultation and let&apos;s discuss your idea</p>
           </div>
 
           <form onSubmit={handleSubmit} className="bg-white p-8 rounded-2xl shadow-2xl">
